@@ -1,4 +1,3 @@
-alert('JS connrcted');
 const userName = prompt("Enter your name:");
 const userAgeInput = prompt("Enter your age:");
 
